@@ -1,0 +1,26 @@
+
+
+.aboutme{
+    text-align: justify;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+
+#container_about_2{
+    
+    margin: 50px 30px 30px ;
+    
+    border: 2px solid purple;
+    border-radius:25px;
+    
+}
+
+#card_leslie{
+    text-align: justify;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
